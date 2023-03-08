@@ -1,6 +1,8 @@
 Linux kernel compile benchmarks kcbench & kcbenchrate
 =====================================================
 
+It's a fork from https://gitlab.com/knurd42/kcbench
+
 Kcbench and kcbenchrate are simple benchmarks scripts that compile a Linux
 kernel a few times in a row and measure the time it takes. See INSTALL.md
 for the various ways to download and install them. For an ad hoc use of
